@@ -1,0 +1,1 @@
+DAIS demo probe write via governed MCP
