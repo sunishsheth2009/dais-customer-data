@@ -1,17 +1,17 @@
-# STARTUP-005 — Startup Inc
+# AGRI-028 — Agritech
 
 | Field | Value |
 |---|---|
-| Account ID | `STARTUP-005` |
+| Account ID | `AGRI-028` |
 | Tier | **SMB** |
 | Region | NA |
-| Account Owner | `alice@databricks.com` |
-| Escalation Risk | **Medium** |
-| Renewal Date | `2026-11-15` |
+| Account Owner | `bob@databricks.com` |
+| Escalation Risk | **Low** |
+| Renewal Date | `2026-06-15` |
 
 ## Open Issues (1)
 
-- FR-U1: Free tier limits clarification
+- INC-V1: Documentation gap on Connect (P3)
 
 ## Recent Notes
 

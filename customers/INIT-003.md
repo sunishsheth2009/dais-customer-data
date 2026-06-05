@@ -7,18 +7,15 @@
 | Region | NA |
 | Account Owner | `sunish.sheth@databricks.com` |
 | Escalation Risk | **High** |
-| Renewal Date | `2026-07-30` |
+| Renewal Date | `2026-03-15` |
 
-## Open Issues (4)
+## Open Issues (1)
 
-- INC-51001: Pipeline cost overrun in dev workspace (P3)
-- INC-51020: Genie space access intermittent (P2)
-- FR-2150: Audit log export to S3 (Feature Request)
-- INC-51077: MLflow model serving cold-start latency (P3)
+- INC-O1: Black-Friday capacity planning question (P3)
 
 ## Recent Notes
 
 - Last touchpoint: 2026-05-25 — QBR with executive sponsor.
-- Forecast: tracking to plan. Adoption metrics healthy.
+- Forecast: tracking to plan.
 
 <!-- DAIS demo fixture. -->

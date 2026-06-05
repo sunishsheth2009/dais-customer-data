@@ -1,17 +1,17 @@
-# STARTUP-005 — Startup Inc
+# CONS-007 — Consult Group
 
 | Field | Value |
 |---|---|
-| Account ID | `STARTUP-005` |
+| Account ID | `CONS-007` |
 | Tier | **SMB** |
-| Region | NA |
+| Region | APAC |
 | Account Owner | `alice@databricks.com` |
-| Escalation Risk | **Medium** |
-| Renewal Date | `2026-11-15` |
+| Escalation Risk | **Low** |
+| Renewal Date | `2026-02-15` |
 
 ## Open Issues (1)
 
-- FR-U1: Free tier limits clarification
+- INC-S1: Trial conversion blocker — payment integration (P2)
 
 ## Recent Notes
 

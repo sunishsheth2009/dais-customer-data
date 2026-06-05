@@ -1,17 +1,17 @@
-# RETAIL-006 — Retail Co
+# ECOM-010 — eCommerce Co
 
 | Field | Value |
 |---|---|
-| Account ID | `RETAIL-006` |
+| Account ID | `ECOM-010` |
 | Tier | **Mid-Market** |
-| Region | EMEA |
-| Account Owner | `alice@databricks.com` |
-| Escalation Risk | **Medium** |
+| Region | NA |
+| Account Owner | `bob@databricks.com` |
+| Escalation Risk | **High** |
 | Renewal Date | `2026-01-15` |
 
 ## Open Issues (1)
 
-- INC-P1: Query optimizer regression (P2)
+- INC-O1: Black-Friday capacity planning question (P3)
 
 ## Recent Notes
 

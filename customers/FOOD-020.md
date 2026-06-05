@@ -1,17 +1,17 @@
-# STARTUP-005 — Startup Inc
+# FOOD-020 — Food Delivery
 
 | Field | Value |
 |---|---|
-| Account ID | `STARTUP-005` |
-| Tier | **SMB** |
-| Region | NA |
+| Account ID | `FOOD-020` |
+| Tier | **Mid-Market** |
+| Region | EMEA |
 | Account Owner | `alice@databricks.com` |
 | Escalation Risk | **Medium** |
-| Renewal Date | `2026-11-15` |
+| Renewal Date | `2026-05-15` |
 
 ## Open Issues (1)
 
-- FR-U1: Free tier limits clarification
+- INC-P1: Query optimizer regression (P2)
 
 ## Recent Notes
 

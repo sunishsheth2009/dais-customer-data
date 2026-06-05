@@ -1,18 +1,18 @@
-# MEGA-002 — Megacorp Industries
+# DATA-014 — Data Insights
 
 | Field | Value |
 |---|---|
-| Account ID | `MEGA-002` |
-| Tier | **Enterprise** |
+| Account ID | `DATA-014` |
+| Tier | **Mid-Market** |
 | Region | EMEA |
 | Account Owner | `sunish.sheth@databricks.com` |
-| Escalation Risk | **Medium** |
-| Renewal Date | `2026-02-15` |
+| Escalation Risk | **Low** |
+| Renewal Date | `2026-06-15` |
 
 ## Open Issues (2)
 
-- INC-B1: SAML SSO break in EMEA (P2)
-- FR-B2: Custom Delta retention policy
+- INC-N1: MLflow cold-start latency (P3)
+- FR-N2: Lakeview scheduled refresh
 
 ## Recent Notes
 

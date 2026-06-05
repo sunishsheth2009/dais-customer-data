@@ -1,18 +1,18 @@
-# MEGA-002 — Megacorp Industries
+# CLOUD-015 — Cloud Solutions
 
 | Field | Value |
 |---|---|
-| Account ID | `MEGA-002` |
+| Account ID | `CLOUD-015` |
 | Tier | **Enterprise** |
-| Region | EMEA |
+| Region | APAC |
 | Account Owner | `sunish.sheth@databricks.com` |
-| Escalation Risk | **Medium** |
-| Renewal Date | `2026-02-15` |
+| Escalation Risk | **Low** |
+| Renewal Date | `2026-07-15` |
 
 ## Open Issues (2)
 
-- INC-B1: SAML SSO break in EMEA (P2)
-- FR-B2: Custom Delta retention policy
+- INC-C1: Network drop, AP-South region (P1)
+- FR-C2: Private link for cross-region replication
 
 ## Recent Notes
 

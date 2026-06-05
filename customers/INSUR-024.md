@@ -1,18 +1,18 @@
-# MEGA-002 — Megacorp Industries
+# INSUR-024 — Insurance Group
 
 | Field | Value |
 |---|---|
-| Account ID | `MEGA-002` |
+| Account ID | `INSUR-024` |
 | Tier | **Enterprise** |
-| Region | EMEA |
-| Account Owner | `sunish.sheth@databricks.com` |
+| Region | APAC |
+| Account Owner | `alice@databricks.com` |
 | Escalation Risk | **Medium** |
-| Renewal Date | `2026-02-15` |
+| Renewal Date | `2026-09-15` |
 
 ## Open Issues (2)
 
-- INC-B1: SAML SSO break in EMEA (P2)
-- FR-B2: Custom Delta retention policy
+- INC-D1: Cluster autoscaling slow (P2)
+- FR-D2: Custom audit log destination
 
 ## Recent Notes
 

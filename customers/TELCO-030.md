@@ -1,13 +1,13 @@
-# MEGA-002 — Megacorp Industries
+# TELCO-030 — Telco Inc
 
 | Field | Value |
 |---|---|
-| Account ID | `MEGA-002` |
+| Account ID | `TELCO-030` |
 | Tier | **Enterprise** |
-| Region | EMEA |
-| Account Owner | `sunish.sheth@databricks.com` |
+| Region | APAC |
+| Account Owner | `bob@databricks.com` |
 | Escalation Risk | **Medium** |
-| Renewal Date | `2026-02-15` |
+| Renewal Date | `2026-08-15` |
 
 ## Open Issues (2)
 
